@@ -1,4 +1,10 @@
 # Remove the pound sign and leading space for the properties below before publishing your game.
+devid=ioups
+devtitle=ioups
+gameid=target-practice-ioups
+gametitle=Target Practice
+version=0.1
+icon=metadata/icon.png
 # devid=myname
 # devtitle=My Name
 # gameid=mygame
